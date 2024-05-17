@@ -7,7 +7,7 @@ function About() {
     <div>
       <p className="content is-medium">ABA and Something-of-a Full Stack Developer</p>
       <hr />
-      <img className="my-pic" src={process.env.PUBLIC_URL + ''} alt="Jacob"/>
+      <img className="my-pic" src={process.env.PUBLIC_URL + 'public\img\selfie1.jpg'} alt="Jacob"/>
       <p className="content is-italic mt-4">
         I'm Jacob, an ABA studying the full stack to better my work
         as a technical writer in the tech and SaaS fields.
